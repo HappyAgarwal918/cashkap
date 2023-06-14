@@ -1,0 +1,1 @@
+[18-Oct-2021 08:17:47 UTC] PHP Fatal error:  Cannot redeclare AssociatemController::edit_course() in /home/h0w2ipv996mn/public_html/cashkap.com/application/controllers/master/AssociatemController.php on line 218
